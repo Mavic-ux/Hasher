@@ -1,1 +1,1 @@
-# Hash fucntion for unordered_set<>
+# Hash function for unordered_set
